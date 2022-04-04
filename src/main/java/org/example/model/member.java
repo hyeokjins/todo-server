@@ -17,6 +17,7 @@ public class member {
   private String password;
   private String phone;
   private String address;
+  private String birth;
 
 
 }
